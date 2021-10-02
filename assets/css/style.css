@@ -69,3 +69,9 @@ body {
   .opcoes {
     color: white;
   }
+
+  #resultado {
+    color: #fff;
+    font-size: 40px;
+  }
+  
